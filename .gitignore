@@ -1,0 +1,33 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.bit
+*.bin
+*.ltx
+*.mmi
+*.xpr
+
+# Vivado implementation/synthesis
+TFG_GENERADOR.runs/
+TFG_GENERADOR.cache/
+TFG_GENERADOR.hw/
+TFG_GENERADOR.ip_user_files/
+TFG_GENERADOR.gen/
+TFG_GENERADOR.sim/
+
+# Vitis/SDK
+SOFTWARE/MCS_GENERADOR/
+SOFTWARE/MCS_GENERADOR_TEST/.settings/
+SOFTWARE/MCS_GENERADOR_TEST/Debug/
+SOFTWARE/MCS_GENERADOR_TEST/Release/
+SOFTWARE/MCS_GENERADOR_TEST/.project
+SOFTWARE/MCS_GENERADOR_TEST/.cproject
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Antigravity/IDE
+.gemini/
+.vscode/
